@@ -9,4 +9,6 @@ Visualize the point-to-point distance and point-to-plane  distance of two 3d poi
 
 Load the 3d model ply file to get the 3d location of facial landmarks.
 
-The model is from: 
+The model is from: [http://faces.cs.unibas.ch/bfm/?nav=1-0&id=basel_face_model]
+
+#
