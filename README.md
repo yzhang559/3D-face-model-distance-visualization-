@@ -9,7 +9,7 @@ Visualize the point-to-point distance and point-to-plane  distance of two 3d poi
 
 Load the 3d model ply file to get the 3d location of facial landmarks.
 
-The model cannot be distributed, from: [ http://faces.cs.unibas.ch/bfm/?nav=1-0&id=basel_face_mode ]
+The model cannot be distributed, from: [ http://faces.cs.unibas.ch/bfm/ ]
 
 # visualize the p2point distance and p2plane distance
 two 3d face pointCloud with different vertexes
